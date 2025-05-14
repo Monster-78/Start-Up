@@ -1,7 +1,7 @@
 import subprocess
 import os
 
-# Step 1: Run EDA Script (This will clean data and save cleaned_investments.csv)
+# Step 1: Run EDA Script (This will clean data and save clean.csv)
 print("🔍 Running EDA script...")
 print("⏳Cool Wait Data Is Under Process.....⏰")
 print("🍿Having Some Snacks....🍿")
